@@ -1,1 +1,1 @@
-https://github.com/Guna-Tamizhan/super-stores-sales/tree/main
+"C:\\Users\\vpmur\\OneDrive\\Pictures\\Guna Folder\\Project\\Project\\Super Store  Sales.xlsx"
